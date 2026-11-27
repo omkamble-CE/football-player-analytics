@@ -1,0 +1,21 @@
+player,nationality,club,position,age,matches,starts,goals,assists,clean_sheets,xG_per90,xA_per90,rating
+Alex Morganley,England,Northbridge FC,Forward,24,28,22,18,7,4,0.82,0.31,2.4
+Luca Moretti,Italy,Northbridge FC,Midfielder,26,30,25,8,11,3,0.28,0.36,2.1
+Mateo Silva,Brazil,Real Costa,Forward,23,27,24,21,5,2,0.91,0.22,3.0
+Noah Bennett,England,Real Costa,Defender,28,31,29,2,3,8,0.07,0.1,1.5
+Ethan Fischer,Germany,Berlin Athletic,Midfielder,25,29,27,6,9,4,0.24,0.33,2.7
+Diego Navarro,Spain,Berlin Athletic,Forward,27,26,20,14,6,1,0.68,0.25,2.6
+Kai Nakamura,Japan,Harbor United,Midfielder,22,24,17,5,8,2,0.21,0.39,2.2
+Oliver Reed,England,Harbor United,Goalkeeper,30,32,32,0,0,11,0.0,0.0,0.0
+Gabriel Costa,Portugal,Metro City,Forward,29,30,26,17,4,3,0.75,0.18,2.8
+Hugo Laurent,France,Metro City,Defender,24,28,26,1,2,7,0.04,0.08,1.8
+Samuel Okafor,Nigeria,Lakeside FC,Forward,21,23,15,10,3,1,0.59,0.14,2.0
+Theo Andersen,Denmark,Lakeside FC,Midfielder,27,31,28,4,10,5,0.18,0.34,2.9
+Rafael Mendes,Brazil,Capital Rovers,Forward,25,29,27,19,8,2,0.88,0.29,3.2
+James Walker,Scotland,Capital Rovers,Defender,31,25,23,1,1,6,0.03,0.05,1.4
+Adrian Popescu,Romania,Eastern Stars,Midfielder,23,27,19,3,7,3,0.15,0.27,2.3
+Felix Weber,Germany,Eastern Stars,Goalkeeper,28,30,30,0,0,9,0.0,0.0,0.0
+Thiago Rocha,Brazil,Portside FC,Forward,26,32,28,16,6,2,0.73,0.2,2.5
+Milan Kovac,Croatia,Portside FC,Midfielder,24,26,21,7,5,4,0.31,0.24,2.0
+Daniel Kim,South Korea,Summit FC,Defender,22,29,24,2,2,9,0.06,0.07,1.7
+Leo Svensson,Sweden,Summit FC,Forward,28,30,27,13,9,1,0.62,0.35,2.7

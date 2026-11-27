@@ -79,7 +79,7 @@ The sample CSV includes player, nationality, club, position, age, matches, start
 ## Author
 **Om Kamble** — Computer Engineering Student
 
-- GitHub: 
+- GitHub:[omkamble-CE] (https://github.com/omkamble-CE)
 - LinkedIn: [OM KAMBLE](https://www.linkedin.com/in/om-kamble-8a4abb250?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## License

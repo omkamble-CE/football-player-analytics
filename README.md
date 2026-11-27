@@ -77,10 +77,10 @@ The sample CSV includes player, nationality, club, position, age, matches, start
 - Deploy the dashboard online.
 
 ## Author
-**Kunal Patil** — Computer Engineering Student
+**Om Kamble** — Computer Engineering Student
 
-- GitHub: [@kunalpatil-ce](https://github.com/kunalpatil-ce)
-- LinkedIn: [Kunal Patil](https://linkedin.com/in/kunal-patil-711783332)
+- GitHub: 
+- LinkedIn: [OM KAMBLE](https://www.linkedin.com/in/om-kamble-8a4abb250?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## License
 Distributed under the MIT License. See [LICENSE](LICENSE).
